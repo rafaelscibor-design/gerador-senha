@@ -1,6 +1,4 @@
-@impoet url('https://fonts.gloogleapis.com/css2?family=Roboto+Mono')
-
-
+@impoet url('https://fonts.gloogleapis.com/css2?family=Roboto+Mono');
 
 
 
@@ -56,7 +54,7 @@ width: 70%;
 
 .conteudo{
     max-width: 1200px;
-margin: ;
+margin:o auto ;
 }
 
 .parametro{
@@ -69,4 +67,38 @@ margin: ;
 .parametro-titulo{
 font-family: var(--robot-mono);
 font-size: 28px;
+}
+
+.parametro-senha__titulo{
+    font-size: 24px;
+}
+
+.parametro-senha{
+    display: flex;
+    flex-direction: column;
+justify-content: center;
+}
+
+.parametro-senha{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.parametro-senha__botao{
+    display: flex;
+justify-content: center;
+
+}
+
+.parametro-senha__botao{
+
+}
+.parametro-senha__texto{
+
+}
+
+@media screen and (min-width: 768px){
+    .parametro-coluna__senha{
+        flex-direction: row;
+    }
 }
