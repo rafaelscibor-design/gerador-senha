@@ -21,3 +21,30 @@ numeroSenha = tamanhoSenha;
 }
 const campoSenha
 
+
+
+
+for
+
+
+
+
+
+
+
+
+
+    if(chekbox[o].cheked){
+alfabeto = alfabeto + letramaiuscula;
+    }
+        if(chekbox[1].cheked){
+            alfabeto = alfabeto + letramaiuscula;
+        }
+        if(chekbox[2].cheked){
+            alfabeto = alfabeto + letramaiuscula;
+        }
+
+        if(chekbox[3].cheked){
+            alfabeto = alfabeto + letramaiuscula;
+        }
+colo
