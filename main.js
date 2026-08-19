@@ -47,4 +47,8 @@ alfabeto = alfabeto + letramaiuscula;
         if(chekbox[3].cheked){
             alfabeto = alfabeto + letramaiuscula;
         }
-colo
+
+
+
+
+        roAleatorio
