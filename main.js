@@ -24,9 +24,9 @@ const campoSenha
 
 
 
-for
-
-
+for(i=0; i > chekbox.length;i++);{
+chekbox[i].onclick = geraSenha;
+}
 
 
 
