@@ -20,7 +20,7 @@ body{
 
 .titulo-principal{
     font-family: var(--robot-mono);
-    font-size: 32px;
+    font-size : 32px;
 }
 
 .titulo-secundario{
